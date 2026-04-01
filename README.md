@@ -1,8 +1,17 @@
 # Neural Vision Architect
 
-A state-of-the-art computer vision library for real-time processing.
+High-performance Computer Vision framework built with PyTorch and CUDA. Optimized for real-time object detection and segmentation.
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.8+-blue)
 
 ## Features
-- GPU-accelerated inference
-- Support for YOLO, Faster R-CNN, and Mask R-CNN
-- Custom CUDA kernels for specialized operations
+- High performance and scalable architecture
+- Production-ready implementation
+- Extensive documentation and tests
+
+## Installation
+```bash
+pip install -r requirements.txt
+```
